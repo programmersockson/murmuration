@@ -1,6 +1,8 @@
 # murmuration
-trying to murmurate
+the simplest murmuration algorithm based on three rules
 
-Best result so far:
+small fluctuations:
+![mur1](https://github.com/programmersockson/murmuration/assets/88203669/36fffde5-f575-4d09-85cc-fa5728cb443e)
 
-![murmurNICE](https://user-images.githubusercontent.com/88203669/232193668-116ced16-c892-4d43-aa32-9642db1cfa8f.gif)
+big fluctuations:
+![mur2](https://github.com/programmersockson/murmuration/assets/88203669/8ca1ea77-df34-41db-bda5-d61c7b90299c)
